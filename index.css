@@ -1,5 +1,7 @@
+
 body {
   color: #071013;
+
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -9,21 +11,21 @@ body {
   font-style: normal;
   font-weight: 700; */
   /* background-color: #edf2f4; */
-  background-color: #f8f9fa;
+  background-color: #4A6670;
   text-align: center;
 }
-#petition-links{
-  color: black;
-}
+
 
 p{
-  color: black;
+  color: #010400;
 }
 
 a {
-  color: #495057;
+  /* color: #495057; */
+color: #668F80;
 }
 
 a:hover{
-  color: #adb5bd;
+  /* color: #adb5bd; */
+  color:#CDC1FF;
 }
