@@ -1,6 +1,6 @@
 
 body {
-  color: #071013;
+  color: #DCDCDD;
 
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
@@ -11,21 +11,33 @@ body {
   font-style: normal;
   font-weight: 700; */
   /* background-color: #edf2f4; */
-  background-color: #4A6670;
+  background-color: #1D1F20;
   text-align: center;
 }
 
+#heading{
+  color: #FAFF00;
+}
 
 p{
-  color: #010400;
+  color:#CDC1FF;
+  /* color: #A2999E; */
 }
 
 a {
   /* color: #495057; */
-color: #668F80;
+color: #FAFF00;
 }
 
 a:hover{
   /* color: #adb5bd; */
   color:#CDC1FF;
+}
+
+a.tiktok{
+  color: #DCDCDD;
+}
+
+a.tiktok:hover{
+  color: #FAFF00;
 }
